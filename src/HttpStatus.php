@@ -1,6 +1,6 @@
 <?php
 
-namespace StatusCodes;
+namespace HttpStatusCode;
 
 class HttpStatus
 {

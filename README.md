@@ -15,7 +15,7 @@ Or include locally via `composer.json` PSR-4 autoload.
 ## Usage
 
 ```php
-use StatusCodes\HttpStatus;
+use HttpStatusCode\HttpStatus;
 
 // Use named constant instead of literal number
 $status = HttpStatus::OK; // 200

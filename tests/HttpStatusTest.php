@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use StatusCodes\HttpStatus;
+use HttpStatusCode\HttpStatus;
 
 class HttpStatusTest extends TestCase
 {

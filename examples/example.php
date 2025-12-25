@@ -2,7 +2,7 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use StatusCodes\HttpStatus;
+use HttpStatusCode\HttpStatus;
 
 echo "Status code for OK: " . HttpStatus::OK . PHP_EOL;
 echo "Phrase: " . HttpStatus::reasonPhrase(HttpStatus::OK) . PHP_EOL;
